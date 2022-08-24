@@ -39,11 +39,11 @@
       },
       {
         "package": "Plot",
-        "repositoryURL": "https://github.com/johnsundell/plot.git",
+        "repositoryURL": "https://github.com/harrydayexe/plot.git",
         "state": {
           "branch": null,
-          "revision": "80612b34252188edbef280e5375e2fc5249ac770",
-          "version": "0.9.0"
+          "revision": "ca74ca61111a5de53fc8d7ecd8a30dc12db4902b",
+          "version": "0.9.1"
         }
       },
       {

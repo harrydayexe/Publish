@@ -41,6 +41,8 @@ public protocol Website {
     /// The configuration to use when generating tag HTML for the website.
     /// If this is `nil`, then no tag HTML will be generated.
     var tagHTMLConfig: TagHTMLConfiguration? { get }
+    /// The Twitter username of the site/author, eg: `@SwiftBySundell`
+    var twitterUsername: String? { get }
 }
 
 // MARK: - Defaults
